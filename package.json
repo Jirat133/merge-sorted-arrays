@@ -1,0 +1,15 @@
+{
+  "name": "merge-sorted-arrays",
+  "version": "1.0.0",
+  "main": "src/merge.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3",
+    "jest": "^27.4.3",
+    "ts-jest": "^27.0.5",
+    "@types/jest": "^27.0.1"
+  },
+  "dependencies": {}
+}
